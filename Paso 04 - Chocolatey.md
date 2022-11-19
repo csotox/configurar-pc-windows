@@ -29,3 +29,9 @@ choco install git -y
 ~~~~ batch
 choco install winrar -y
 ~~~~
+
+## OBS Studio
+
+~~~~ batch
+choco install obs-studio
+~~~~
