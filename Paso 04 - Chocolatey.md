@@ -33,5 +33,5 @@ choco install winrar -y
 ## OBS Studio
 
 ~~~~ batch
-choco install obs-studio
+choco install obs-studio -y
 ~~~~
