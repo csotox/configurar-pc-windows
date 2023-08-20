@@ -19,11 +19,14 @@
 
 ### Configuración
 
-Espacios en blanco
+Preferencias (CRTL+,)
 
+- Linked Editing: Activar
 - Render Whitespace : Trailing
-
-- Pair : Activar
+- Bracket Pair Colorization: Activar
+- Bracket Pairs: Activar
+- Bracket Pairs Horizontal: Activar
+- Highlight Active Bracket Pair: Activar
 
 ### Extensiones
 
