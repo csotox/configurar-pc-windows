@@ -3,7 +3,6 @@
 - Alarma y reloj de Windows
 - Audacity
 - Canva
-- Evernote
 - Netflix
 - Power BI Desktop
 - Spotify

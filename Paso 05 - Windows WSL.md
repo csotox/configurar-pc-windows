@@ -38,3 +38,4 @@ Preferencias (CRTL+,)
 - Markdownlint (davidanson.vscode-markdownlint)
 - Git Graph (mhutchie.git-graph)
 - Edit csv (janisdd.vscode-edit-csv)
+- Live Server

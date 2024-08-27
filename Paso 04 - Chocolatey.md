@@ -12,12 +12,6 @@ https://chocolatey.org/install#individual
 choco install adobereader -y
 ~~~~
 
-## Kdenlive
-
-~~~~ batch
-choco install kdenlive -y
-~~~~
-
 ## Git
 
 ~~~~ batch
