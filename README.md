@@ -2,17 +2,13 @@
 
 Actualmente tengo Windows 11
 
-* * *
-
 ## Cambiar nombre del equipo y de la organización
 
-* * *
+- PRIVADO
 
 ## Desinstalar
 
 - Toda app que no utilice.
-
-* * *
 
 ## Configuración de Windows
 

@@ -13,7 +13,15 @@
 
 - Me aseguro de tener activo OpenSSH
 
-* * *
+## Configuración de Ubuntu
+
+~~~ bash
+sudo apt update
+~~~
+
+~~~ bash
+sudo apt install make
+~~~
 
 ## Configuro VS Code
 
